@@ -6,15 +6,10 @@ Today, information is growing exponentially in terms of **volume, velocity, and 
 
 **Recommender Systems** play a crucial role in addressing this problem by suggesting relevant products to users while they browse online. Providing **personalized recommendations** improves user engagement and drives business value.
 
-Major e-commerce platforms such as:
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-
+Major e-commerce platforms such as: Amazon, Walmart, Target and Etsy
 invest heavily in recommendation systems to enhance user experience through personalization.
 
-For example, :contentReference[oaicite:4]{index=4} is well-known for its highly accurate recommendation engine. It analyzes customer behavior and predicts preferences to generate relevant product suggestions. One foundational technique used is **item-to-item collaborative filtering**, which:
+For example, Amazon is well-known for its highly accurate recommendation engine. It analyzes customer behavior and predicts preferences to generate relevant product suggestions. One foundational technique used is **item-to-item collaborative filtering**, which:
 - Scales to massive datasets  
 - Produces high-quality recommendations  
 - Operates in real time  
